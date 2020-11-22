@@ -1,0 +1,16 @@
+{
+    "host": "files.000webhost.com",
+    "username": "caffesmk11",
+    "password": "putra3221",
+    "remotePath": "public_html/caffe/",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": false,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}

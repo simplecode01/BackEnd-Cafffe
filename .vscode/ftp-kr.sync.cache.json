@@ -1,0 +1,197 @@
+{
+  "ftp://files.000webhost.com:21@caffesmk11": {
+    "public_html": {
+      "caffe": {
+        "auth": {
+          "register.php": {
+            "type": "-",
+            "size": 2951,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "login.php": {
+            "type": "-",
+            "size": 2605,
+            "lmtime": 1605503647000,
+            "modified": false
+          }
+        },
+        "config": {
+          "connection.php": {
+            "type": "-",
+            "size": 496,
+            "lmtime": 1605682700927,
+            "modified": false
+          }
+        },
+        "module": {
+          "addtransaksi.php": {
+            "type": "-",
+            "size": 2465,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "aksestransaksi.php": {
+            "type": "-",
+            "size": 2354,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "cancelorder.php": {
+            "type": "-",
+            "size": 1444,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "initialdatatransaksi.php": {
+            "type": "-",
+            "size": 1165,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "listmenu.php": {
+            "type": "-",
+            "size": 1086,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "listtransaksi.php": {
+            "type": "-",
+            "size": 1233,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "transaksi": {
+            "addmenu_inchart.php": {
+              "type": "-",
+              "size": 1209,
+              "lmtime": 1605503647000,
+              "modified": true
+            },
+            "listmenuinchart.php": {
+              "type": "-",
+              "size": 3548,
+              "lmtime": 1605503647000,
+              "modified": false
+            },
+            "updateqtymenu_inchart.php": {
+              "type": "-",
+              "size": 2956,
+              "lmtime": 1605985081957,
+              "modified": false
+            }
+          },
+          "checkout": {
+            "checkout.php": {
+              "type": "-",
+              "size": 261,
+              "lmtime": 1605775839512,
+              "modified": false
+            },
+            "checkoutlistview.php": {
+              "type": "-",
+              "size": 3429,
+              "lmtime": 1605775907057,
+              "modified": true
+            },
+            "checkoutupdatedatamenu.php": {
+              "type": "-",
+              "size": 1032,
+              "lmtime": 1605794388583,
+              "modified": false
+            }
+          },
+          "menu": {
+            "addmenu.php": {
+              "type": "-",
+              "size": 2046,
+              "lmtime": 1605985354543,
+              "modified": false
+            },
+            "deletemenu.php": {
+              "type": "-",
+              "size": 887,
+              "lmtime": 1605984166363,
+              "modified": false
+            },
+            "updatehargamenu.php": {
+              "type": "-",
+              "size": 962,
+              "lmtime": 1605984228151,
+              "modified": false
+            }
+          }
+        },
+        "pictures": {
+          "ayam-geprek-madu.jpeg": {
+            "type": "-",
+            "size": 74395,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "default_image.png": {
+            "type": "-",
+            "size": 19492,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "es-jeruk-nipis.jpg": {
+            "type": "-",
+            "size": 67835,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "gado-gado-spesial.jpg": {
+            "type": "-",
+            "size": 78028,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "jus-mangga.png": {
+            "type": "-",
+            "size": 200933,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "lontong-sayur.jpg": {
+            "type": "-",
+            "size": 77617,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "maranggi.jpg": {
+            "type": "-",
+            "size": 58908,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "mie-goreng-spesial.jpg": {
+            "type": "-",
+            "size": 53410,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "pop-ice-coklat.jpg": {
+            "type": "-",
+            "size": 168124,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "roti-bakar-madu.jpg": {
+            "type": "-",
+            "size": 36808,
+            "lmtime": 1605503647000,
+            "modified": false
+          },
+          "sosis-bakar-ukuran-1.jpg": {
+            "type": "-",
+            "size": 60077,
+            "lmtime": 1605503647000,
+            "modified": false
+          }
+        }
+      }
+    }
+  },
+  "$version": 1
+}
